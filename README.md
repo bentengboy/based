@@ -3,7 +3,7 @@ Base56
 Base57
 Base58
 Base59
-Base36
+Base60
 Base37
 Base38
 Base39
