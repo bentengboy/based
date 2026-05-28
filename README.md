@@ -5,7 +5,7 @@ Base58
 Base59
 Base60
 Base61
-Base38
+Base62
 Base39
 Base40
 Base41
