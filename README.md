@@ -7,7 +7,7 @@ Base60
 Base61
 Base62
 Base63
-Base40
+Base64
 Base41
 Base42
 Base43
