@@ -1,7 +1,7 @@
 # Based
 Base56
 Base57
-Base34
+Base58
 Base35
 Base36
 Base37
