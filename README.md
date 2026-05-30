@@ -1,7 +1,7 @@
 # Based
 Base80
 Base81
-Base58
+Base82
 Base59
 Base60
 Base61
