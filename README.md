@@ -5,7 +5,7 @@ Base82
 Base83
 Base84
 Base85
-Base62
+Base86
 Base63
 Base64
 Base65
