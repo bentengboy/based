@@ -6,7 +6,7 @@ Base83
 Base84
 Base85
 Base86
-Base63
+Base87
 Base64
 Base65
 Base66
